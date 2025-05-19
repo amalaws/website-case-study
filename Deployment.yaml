@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: devops225/website:latest
+        image: amaldevops225/website:latest
         ports:
         - containerPort: 80
